@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
+input {
+    margin-right:15px;
+}
